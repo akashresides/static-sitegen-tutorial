@@ -1,1 +1,1 @@
-python3 src/main.py ssg_project
+python3 src/main.py static-sitegen-tutorial
